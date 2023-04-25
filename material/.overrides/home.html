@@ -1,0 +1,49 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "main.html" %}
+{% block tabs %}
+  {{ super() }}
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="mdx-hero__image">
+          <img src="assets/images/banner-18.png" alt="" width="1659" height="1200" draggable="false">
+        </div>
+        <div class="mdx-hero__content">
+          <h1>{{ lang.t("home.h1") }}</h1>
+          <p>{{ lang.t("home.p") }}</p>
+          <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
+            {{ lang.t('quick.start') }}
+          </a>
+          <a href="{{ 'greaterwms/' | url }}" title="product" class="md-button">
+            {{ lang.t('quick.product') }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}
+  <div class="md-footer-meta md-typeset" style="background-color: #4051b5">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+          <div class="md-copyright__highlight">
+            {{ config.copyright }}
+          </div>
+        {% if lang.t('language') == 'zh' %}
+          上海四号位信息科技有限公司
+          <a href="https://beian.miit.gov.cn/">  沪ICP备:  2022000512号-1</a>
+        {% elif lang.t('language') == 'en' %}
+          上海四号位信息科技有限公司
+          <a href="https://beian.miit.gov.cn/">  沪ICP备:  2022000512号-1</a>
+        {% endif %}
+      </div>
+      {% if config.extra.social %}
+        {% include "partials/social.html" %}
+      {% endif %}
+    </div>
+  </div>
+{% endblock %}
