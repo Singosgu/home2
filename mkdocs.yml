@@ -125,6 +125,7 @@ plugins:
           GreaterWMS: GreaterWMS
           DVadmin: DVadmin
           WCS: WCS
+          Case: 成功案例
           Contact: 联系我们
           Contact US: 联系方式
 
@@ -194,6 +195,7 @@ nav:
     - GreaterWMS: greaterwms.md
     - DVadmin: dvadmin.md
     - WCS: wcs.md
+  - Case: show_case.md
   - Contact:
     - Contact US: contact_us.md
 
