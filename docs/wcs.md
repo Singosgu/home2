@@ -7,7 +7,7 @@ Intralogistics processes are becoming increasingly complex. In manual, automated
 > * Warehouse Control System (WCS)
 > * Visualization SCADA
 > * Navigation & Control based on Driverless Technology (In-plant Logistics Solutions)
-> * Logistics Equipment Partner List...
+> * Intralogistics Equipment Partner List...
 > * Case Overview
 
 ![overview_pic][1]{ loading=lazy }
@@ -79,13 +79,21 @@ Full lifecycle O&M support services
 
 ![L4_Driver][4]{ loading=lazy }
 
+##  Intralogistics Equipment Partner List...
+>At present, our WCS system covers most of the equipment types of major intralogistics suppliers. For example, Storage Systems (SRM, MiniLoad AS/RS, Shuttles, etc.), Transport Systems(AGV, AMR, ACR，Conveyors and Sorters）. Picking Systems (goods-to-person picking, PTL and etc.)
+
+![wcs_equipment_overview][5]
+
+Welcome your inquiry and our experts will inform you of more details based on the information you provided.
+
 ## Case Overview
 > SAIC-GM-Wuling plant uses our solutions for 100+ driverless logistics vehicles
-![case1][5]
+![case1][6]
 
 
 [1]: assets/images/warehouse_overview.png
 [2]: assets/images/shutterstock.webp
 [3]: assets/images/SCADA.jpg
 [4]: assets/images/L4_scene_en.png
-[5]: assets/images/case_en.png
+[5]: assets/images/wcs_equipment_overview.jpg
+[6]: assets/images/case_en.png
