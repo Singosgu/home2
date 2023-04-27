@@ -1,10 +1,16 @@
+---
+title: WCS | Warehouse Control System
+description: Warehouse Automation Software Solutions
+keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, warehouse automation control system, automation control system, automation warehouse
+---
+
 # Warehouse Automation Software Solutions
 
 ------
 
 Intralogistics processes are becoming increasingly complex. In manual, automated and fully automated warehouses, countless processes must be monitored, observed and optimized, so expertise is required. As a professional logistics system provider, We provide professional consulting advice for your warehousing project, and work with your project team to build a warehouse automation software solution that meets your project needs.
 
-!!! info "* Warehouse Control System (WCS)"
+!!! success "* Warehouse Control System (WCS)"
 * Visualization SCADA
 * Navigation & Control based on Driverless Technology (In-plant Logistics Solutions)
 * Intralogistics Equipment Partner List...
@@ -14,13 +20,9 @@ Intralogistics processes are becoming increasingly complex. In manual, automated
 
 ## Warehouse Control System (WCS)
 
-> Warehouse control system orchestrates material flow within an automated fulfilment or distribution centre. At its core, it effectively coordinates a number of automation and robotic components to maintain overall system throughput.
+> Clothoidy [WCS](https://www.56yhz.com/contact_us/) is a layer of management and control system between WMS system and PLC system, through the control and scheduling of PLC and single-chip microcomputer of various equipment in the automated warehouse. Through the integration, unified scheduling and monitoring of various logistics equipment system interfaces such as stackers, conveyor lines, four-way shuttle robots, AGV, Hoists, depalletizers, etc., as well as timely alarms and emergency treatment in case of abnormalities, so as to maintain the throughput of the entire warehouse automation system.
 
->It allows the isolation of the in-situ WMS from the complexities of any new MHE integration, saving on costs and minimising disruption to a live site.
-
->Our system supports the complete spectrum of automation and robotic integration complexity, from the simplest conveyor-based mechanisation system through to the most elaborate automation solution incorporating automated receiving, storage, picking, sortation and loading subsystems.
-
->Through its component-based engineering methodology, Our system can be easily tailored to deliver a solution that best fits into your functional and performance requirements and your existing IT architecture.
+>Through its component-based engineering methodology, Our [WCS](https://www.56yhz.com/contact_us/) can be easily tailored to deliver a solution that best fits into your functional and performance requirements and your existing IT architecture.
 
 ------
 
@@ -60,7 +62,7 @@ Intralogistics processes are becoming increasingly complex. In manual, automated
     >...and More!
 
 ## Visualization SCADA
->SCADA subsystems visualize your entire equipment, including material flow, analyze performance-critical data, and provide multiple options for monitoring and control. With dashboards that can be adapted to different user groups, operational data from a technical and logistics perspective is unified, while being highly connected to existing systems.
+>[SCADA](https://www.56yhz.com/contact_us/) subsystems visualize your entire equipment, including material flow, analyze performance-critical data, and provide multiple options for monitoring and control. With dashboards that can be adapted to different user groups, operational data from a technical and logistics perspective is unified, while being highly connected to existing systems.
 
 ![SCADA_viewer][2]{ loading=lazy }
 ![SCADA_Monitor][3]{ loading=lazy }
@@ -84,7 +86,7 @@ Full lifecycle O&M support services
 
 ![wcs_equipment_overview][5]{ loading=lazy }
 
-Welcome your inquiry and our experts will inform you of more details based on the information you provided.
+Welcome your inquiry and our experts will inform you of more details based on the information you provided. （https://www.56yhz.com/contact_us/）
 
 ## Case Overview
 > SAIC-GM-Wuling plant uses our solutions for 100+ driverless logistics vehicles
