@@ -1,7 +1,7 @@
 ---
 title: WCS | Warehouse Control System
 description: Warehouse Automation Software Solutions
-keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, warehouse automation control system, automation control system, automation warehouse
+keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, warehouse automation control system, automation control system, automation warehouse,自动化控制系统，仓库控制系统，自动化仓库
 ---
 
 # 仓储自动化软件系统解决方案
@@ -20,7 +20,7 @@ keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, wareho
 
 ## 仓库控制系统(WCS)
 
-> WCS系统是介于WMS系统和PLC系统之间的一层管理控制系统，通过对自动化仓库中各项设备的PLC、单片机的控制和调度。通过对堆垛机、输送线、智能四向穿梭机器人、AGV小车, 提升机、拆码垛机等各种物流设备系统接口的集成、统一调度和监控以及遇到异常及时告警并进行应急处理，从而维持整个仓库自动化系统的吞吐量。
+> WCS系统是介于WMS系统和PLC系统之间的一层管理控制系统，通过对自动化仓库中各项设备的PLC、单片机的控制和调度，使堆垛机、输送线、智能四向穿梭机器人、AGV小车, 提升机、拆码垛机等各种物流设备统一集成调度和监控，优化设备运作效率，从而维持整个仓库自动化系统的吞吐量。
 
 > 柯罗梭[WCS](https://www.56yhz.com/contact_us/) 软件采用基于低耦合组件化的工程方法，因而可以轻松定制，提供最符合您的功能和性能要求以及现有 IT 架构的解决方案。
 
