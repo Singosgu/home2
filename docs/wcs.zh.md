@@ -22,7 +22,13 @@ keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, wareho
 
 > WCS系统是介于WMS系统和PLC系统之间的一层管理控制系统，通过对自动化仓库中各项设备的PLC、单片机的控制和调度，使堆垛机、输送线、智能四向穿梭机器人、AGV小车, 提升机、拆码垛机等各种物流设备统一集成调度和监控，优化设备运作效率，从而维持整个仓库自动化系统的吞吐量。
 
-> 柯罗梭[WCS](https://www.56yhz.com/contact_us/) 软件采用基于低耦合组件化的工程方法，因而可以轻松定制，提供最符合您的功能和性能要求以及现有 IT 架构的解决方案。
+## WMS系统与WCS系统是如何协同工作
+![system_overview][2]{ loading=lazy }
+
+## WCS系统架构
+![system_architecture][3]{ loading=lazy }
+
+> 我们的[WCS](https://www.56yhz.com/contact_us/) 软件采用基于低耦合组件化的工程方法，因而可以轻松定制，提供最符合您的功能和性能要求以及现有 IT 架构的解决方案。
 
 ------
 
@@ -53,8 +59,8 @@ keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, wareho
 
 ## 可视化SCADA
 >[SCADA](https://www.56yhz.com/contact_us/)子系统能将您整个设备包括物料流可视化，分析性能关键数据，提供监测和控制的多种选项。借助可以针对不同用户群组调整的信息看板，统一了技术和物流视角的运营数据，同时与现有的系统可以高度衔接。
-![SCADA_viewer][2]{ loading=lazy }
-![SCADA_Monitor][3]{ loading=lazy }
+![SCADA_viewer][4]{ loading=lazy }
+![SCADA_Monitor][5]{ loading=lazy }
 
 ## 基于无人驾驶技术的导航与控制-厂区物流解决方案
 >适合多种行业与各种应用场景
@@ -68,22 +74,24 @@ keywords: Warehouse Control System, control system, wcs, SCADA,scada,WCS, wareho
 - [x] 协助客户进行车辆改装-可选包
 - [x] 现场安装与实施-可选包
 
-![L4_Driver][4]{ loading=lazy }
+![L4_Driver][6]{ loading=lazy }
 
 ## 当前WCS系统支持的设备类型与合作厂商 （持续更新...)
 >当前我们的WCS系统已经涵盖了主流内部物流设备供应商的设备。 比如存储系统 (托盘堆垛机SRM, MiniLoad, 多层/四向穿梭车等), 搬运系统(AGV, AMR, ACR，输送和分拣线). 分拣(货到人, 灯光拣选等.)
 
-![wcs_equipment_overview][5]{ loading=lazy }
+![wcs_equipment_overview][7]{ loading=lazy }
 
 欢迎您的咨询，我们的[WCS](https://www.56yhz.com/contact_us/)专家将就您提供的信息告知您更多细节。
 
 ## 案例 
-![case1][6]{ loading=lazy }
+![case1][8]{ loading=lazy }
 
 
 [1]: assets/images/warehouse_overview.png
-[2]: assets/images/shutterstock.webp
-[3]: assets/images/SCADA.jpg
-[4]: assets/images/L4_scene_zh.png
-[5]: assets/images/wcs_equipment_overview.jpg
-[6]: assets/images/case_zh.png
+[2]: assets/images/system_overview_zh.png
+[3]: assets/images/system_architecture_zh.png
+[4]: assets/images/shutterstock.webp
+[5]: assets/images/SCADA.jpg
+[6]: assets/images/L4_scene_zh.png
+[7]: assets/images/wcs_equipment_overview.jpg
+[8]: assets/images/case_zh.png

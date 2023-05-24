@@ -22,6 +22,9 @@ Intralogistics processes are becoming increasingly complex. In manual, automated
 
 > [WCS](https://www.56yhz.com/contact_us/) system is a layer of management and control system between WMS system and equipments PLC system, through the control and scheduling of PLC and single-chip microcomputer of various equipment in the automated warehouse. Through the integration, unified scheduling and monitoring of various logistics equipment system interfaces. Such as stackers, conveyors, four-way shuttle robots, AGV, AMR, Hoists, depalletizers, sensors and scanners etc., as well as timely alarms and emergency treatment in case of abnormalities, so as to maintain the throughput of the entire warehouse automation system.
 
+## System Overview
+![system_overview][2]{ loading=lazy }
+
 > Clothoidy's technical team members have extensive experience in the logistics automation industry, and they come from the software development engineer team of the top three companies in the logistics automation industry. So let us know your logistics automation ideas or concerns, Our [WCS](https://www.56yhz.com/contact_us/) expert can be easily tailored to deliver a solution that best fits into your functional and performance requirements and your existing IT architecture.
 
 ------
@@ -64,8 +67,8 @@ Intralogistics processes are becoming increasingly complex. In manual, automated
 ## Visualization SCADA
 >[SCADA](https://www.56yhz.com/contact_us/) subsystems visualize your entire equipment, including material flow, analyze performance-critical data, and provide multiple options for monitoring and control. With dashboards that can be adapted to different user groups, operational data from a technical and logistics perspective is unified, while being highly connected to existing systems.
 
-![SCADA_viewer][2]{ loading=lazy }
-![SCADA_Monitor][3]{ loading=lazy }
+![SCADA_viewer][3]{ loading=lazy }
+![SCADA_Monitor][4]{ loading=lazy }
 
 ## Navigation & Control based on Driverless Technology (In-plant Logistics Solutions)
 > Suitable for a variety of industries and various application scenarios
@@ -79,23 +82,24 @@ Full lifecycle O&M support services
 - [x] Assistance with customer vehicle modification - optional package
 - [x] Field installation and implementation - optional package
 
-![L4_Driver][4]{ loading=lazy }
+![L4_Driver][5]{ loading=lazy }
 
 ##  Intralogistics Equipment Partner List...
 >At present, our WCS system covers most of the equipment types of major intralogistics suppliers. For example, Storage Systems (SRM, MiniLoad AS/RS, Shuttles, etc.), Transport Systems(AGV, AMR, ACR，Conveyors and Sorters）. Picking Systems (goods-to-person picking, PTL and etc.)
 
-![wcs_equipment_overview][5]{ loading=lazy }
+![wcs_equipment_overview][6]{ loading=lazy }
 
 Welcome your inquiry and our [WCS]（https://www.56yhz.com/contact_us/）expert will inform you of more details based on the information you provided. 
 
 ## Case Overview
 > SAIC-GM-Wuling plant uses our solutions for 100+ driverless logistics vehicles
-![case1][6]{ loading=lazy }
+![case1][7]{ loading=lazy }
 
 
 [1]: assets/images/warehouse_overview.png
-[2]: assets/images/shutterstock.webp
-[3]: assets/images/SCADA.jpg
-[4]: assets/images/L4_scene_en.png
-[5]: assets/images/wcs_equipment_overview.jpg
-[6]: assets/images/case_en.png
+[1]: assets/images/system_overview_en.png
+[3]: assets/images/shutterstock.webp
+[4]: assets/images/SCADA.jpg
+[5]: assets/images/L4_scene_en.png
+[6]: assets/images/wcs_equipment_overview.jpg
+[7]: assets/images/case_en.png
